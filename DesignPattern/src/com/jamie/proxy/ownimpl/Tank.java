@@ -1,4 +1,4 @@
-package com.jamie.proxy.sample;
+package com.jamie.proxy.ownimpl;
 
 public class Tank implements Moveable {
 
