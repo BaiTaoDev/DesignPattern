@@ -1,4 +1,4 @@
-package com.jamie.proxy;
+package com.jamie.proxy.sample;
 
 import java.lang.reflect.Method;
 

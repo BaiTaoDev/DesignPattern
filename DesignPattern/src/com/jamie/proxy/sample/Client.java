@@ -1,4 +1,4 @@
-package com.jamie.proxy;
+package com.jamie.proxy.sample;
 
 
 public class Client {
