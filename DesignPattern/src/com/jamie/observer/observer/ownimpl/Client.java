@@ -1,5 +1,9 @@
 package com.jamie.observer.observer.ownimpl;
 
+/**
+ * @author JamieBai
+ * @create 2017/12/16
+ */
 public class Client {
 
     public static void main(String[] args) throws Exception {

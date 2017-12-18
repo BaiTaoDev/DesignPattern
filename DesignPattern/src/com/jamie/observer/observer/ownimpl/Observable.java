@@ -3,6 +3,10 @@ package com.jamie.observer.observer.ownimpl;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author JamieBai
+ * @create 2017/12/16
+ */
 public class Observable {
 
     List<Observer> observers = new ArrayList<>();
