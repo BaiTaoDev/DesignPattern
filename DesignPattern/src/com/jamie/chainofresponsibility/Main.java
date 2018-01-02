@@ -16,9 +16,7 @@ public class Main {
         Response response = new Response();
         response.setResponseStr("response");
         FilterChain fc = new FilterChain();
-        fc.addFilter(new HTMLFilter())
-                .addFilter(new SesitiveFilter())
-        ;
+        fc.addFilter(new HTMLFilter()).addFilter(new SensitiveFilter());
 
         fc.doFilter(request, response, fc);
         System.out.println(request.getRequestStr());

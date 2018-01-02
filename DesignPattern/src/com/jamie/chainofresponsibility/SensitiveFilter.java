@@ -4,7 +4,7 @@ package com.jamie.chainofresponsibility;
  * @author JamieBai
  * @create 2018/01/02
  */
-public class SesitiveFilter implements Filter {
+public class SensitiveFilter implements Filter {
 
     @Override
     public void doFilter(Request request, Response response, FilterChain chain) {
