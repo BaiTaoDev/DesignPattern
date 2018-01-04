@@ -17,6 +17,8 @@ public class DeepCloneTest {
         System.out.println(deepClone.getDeepField());
         System.out.println(deepClone.getDeepField().getA());
         System.out.println(deepClone.getDeepField().getB());
+
+        //clone出来的Field对象并没有调用构造方法
         System.out.println(deepCloneNew.getDeepField());
         System.out.println(deepCloneNew.getDeepField().getA());
         System.out.println(deepCloneNew.getDeepField().getB());
