@@ -15,6 +15,10 @@ public class DeepCloneTest {
         DeepClone deepCloneNew = deepClone.clone();
 
         System.out.println(deepClone.getDeepField());
+        System.out.println(deepClone.getDeepField().getA());
+        System.out.println(deepClone.getDeepField().getB());
         System.out.println(deepCloneNew.getDeepField());
+        System.out.println(deepCloneNew.getDeepField().getA());
+        System.out.println(deepCloneNew.getDeepField().getB());
     }
 }
