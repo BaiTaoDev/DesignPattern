@@ -1,6 +1,7 @@
 package com.jamie.observer.observer.ownimpl;
 
 /**
+ * 观察者
  * @author JamieBai
  * @create 2017/12/16
  */
