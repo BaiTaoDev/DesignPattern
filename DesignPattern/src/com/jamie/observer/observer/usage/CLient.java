@@ -4,7 +4,7 @@ package com.jamie.observer.observer.usage;
  * @author JamieBai
  * @create 2017/12/16
  */
-public class CLient {
+public class Client {
     public static void main(String[] args) {
         FootballPlayer f1 = new FootballPlayer("C罗");
         FootballPlayer f2 = new FootballPlayer("梅西");

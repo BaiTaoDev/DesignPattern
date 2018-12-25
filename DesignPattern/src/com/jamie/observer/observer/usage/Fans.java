@@ -4,6 +4,7 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
+ * 观察者
  * @author JamieBai
  * @create 2017/12/16
  */

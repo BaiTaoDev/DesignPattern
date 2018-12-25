@@ -3,6 +3,7 @@ package com.jamie.observer.observer.usage;
 import java.util.Observable;
 
 /**
+ * 被观察者
  * @author JamieBai
  * @create 2017/12/16
  */
